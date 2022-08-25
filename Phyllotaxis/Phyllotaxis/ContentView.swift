@@ -7,9 +7,6 @@
 
 import SwiftUI
 
-// In botany, phyllotaxis (from Ancient Greek φύλλον (phúllon) 'leaf', and τάξις (táxis) 'arrangement')
-// or phyllotaxy is the arrangement of leaves on a plant stem.
-// Phyllotactic spirals form a distinctive class of patterns in nature.
 struct Point: Hashable {
     let x: CGFloat
     let y: CGFloat
