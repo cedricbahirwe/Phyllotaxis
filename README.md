@@ -1,5 +1,9 @@
 # Phyllotaxis
 
+Feel free to play around with the values in the `draw()` function to better understand how the animation works
+
+P.S: Better Documentation coming soon
+
 
 | Example 1    |  Example 2   |  Example 3   |
 |--------------|--------------|--------------|
