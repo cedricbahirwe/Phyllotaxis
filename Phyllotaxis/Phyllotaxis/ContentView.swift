@@ -24,17 +24,12 @@ struct ContentView: View  {
 
     let timer = Timer.publish(every: 0.01, on: .main, in: .common).autoconnect()
     @State private var points: [Point] = []
-    var myGradient = Gradient(
-        colors: [
-            Color.black,
-            .pink,
-            .purple
-        ]
-    )
+    private var myGradient = Gradient(colors: [Color.black, .pink, .purple])
+
     var body: some View {
         ZStack {
             Color.black.ignoresSafeArea()
-            
+
             ZStack {
                 ForEach(points, id:\.self) { pt in
                     Circle()
