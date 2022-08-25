@@ -1,4 +1,5 @@
 # Phyllotaxis
+## In botany, phyllotaxis (from Ancient Greek φύλλον (phúllon) 'leaf', and τάξις (táxis) 'arrangement') or phyllotaxy is the arrangement of leaves on a plant stem. Phyllotactic spirals form a distinctive class of patterns in nature. [Wikipedia](https://en.wikipedia.org/wiki/Phyllotaxis)
 
 Feel free to play around with the values in the `draw()` function to better understand how the animation works
 
