@@ -3,7 +3,7 @@
 
 Feel free to play around with the values in the `draw()` function to better understand how the animation works
 
-P.S: Better Documentation coming soon
+P.S: Better Documentation coming soon, meaawhile you can also check out: [Brooks Law](https://github.com/cedricbahirwe/BrooksLaw) 
 
 
 | Example 1    |  Example 2   |  Example 3   |
